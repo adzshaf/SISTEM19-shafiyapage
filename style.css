@@ -1,0 +1,110 @@
+body {
+    background-color: #E35F75;
+    font-family: 'Roboto', sans-serif;
+}
+
+.dalam-border {
+    background-color: #F3BAC3;
+    border: #EFF8F3 20px solid;
+    color: #404E88;
+    margin: 5%;
+    padding: 3%;
+}
+
+.button {
+    width: 72px;
+    height: 30px;
+    margin-right: 10%;
+    margin-top: 5%;
+    color: #EFF8F3;
+    background: #404E88;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border: #EFF8F3 5px solid;
+}
+
+.flex-container {
+    display: flex;
+    margin: 2%;
+}
+
+.foto-pribadi {
+    width: 300px;
+    height: 300px;  
+    margin: 10%;
+}
+
+.github {
+    width: 25px;
+    height: 25px;
+}
+
+.email {
+    width: 25px;
+    height: 25px;
+}
+
+.linkedin {
+    width: 25px;
+    height:25px;
+}
+
+.konten-pribadi {
+    margin-top:5%;
+    margin-left: 10%;
+}
+
+table {
+    width: 100%;
+}
+.year {
+    text-align: right;
+}
+
+.quanta {
+    width: 468px;
+    height: 365px;
+    left: 507px;
+    top: 524px;
+}
+
+.zomato {
+    width: 551px;
+    height: 551px;
+    left: 465px;
+    top: 1179px;
+}
+
+.col-sm-3 {
+    width: 72px;
+    height: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+    color: #EFF8F3;
+    background: #404E88;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border: #EFF8F3 5px solid;
+}
+
+.row {
+    display:flex;
+    justify-content:center;
+    align-items:center; 
+}
+
+.submit {
+    color: #EFF8F3;
+    background: #404E88;
+    border: #EFF8F3 5px solid;
+}
+
+.container-fluid {
+    color: #EFF8F3;
+    background: #404E88;
+}
+
+
